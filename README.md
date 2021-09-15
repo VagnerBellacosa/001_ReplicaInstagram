@@ -1,4 +1,6 @@
-# Ola, tudo bem? Chegou aqui através do curso, certo? 🙃
+# LABS
+
+## Ola, tudo bem? Chegou aqui através do curso, certo? 🙃
 
 Esta pagina foi baseada no Curso Digital Inovation One, baseado no trabalho do instrutor vamos fazer a interface de login do Instagram! 
 
@@ -20,3 +22,5 @@ Acrescentei alguns pedulicarios para brincar com html e css
 4. Inclui footer
 
 ## 🚀 Let's code! 🚀
+
+https://web.digitalinnovation.one/lab/recriando-a-pagina-inicial-do-instagram/learning/9c6e1506-e7c3-473f-8083-6aa4c53d1f45
